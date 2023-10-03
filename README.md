@@ -1,5 +1,9 @@
 # Brian's Image Processing Toolbox
 
+[![Licence: MIT](https://img.shields.io/github/license/brian1000/first-box)](https://github.com/brian1000/first-box/blob/master/LICENSE)
+[![repo size](https://img.shields.io/github/repo-size/brian1000/first-box)](https://github.com/brian1000/first-box/)
+
+
 This is home to a suite of scripts for image processing using python & imageJ(Fiji). The repo hosts tutorials for:
 
   - image registration
