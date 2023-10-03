@@ -1,0 +1,16 @@
+name: del_reg
+channels:
+  - defaults
+dependencies:
+  - pip=22.3.1
+  - python=3.7.16
+  - pip:
+      - cpselect==1.0.3
+      - matplotlib==3.0.1
+      - matplotlib-inline==0.1.6
+      - numpy==1.21.6
+      - opencv-python==4.8.0.74
+      - tifffile==2021.11.2
+      - ipykernel==6.16.2
+      - ipython==7.34.0
+
